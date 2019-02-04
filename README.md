@@ -16,3 +16,7 @@ possible ways to define test file
 - setup with `setupTests.js` - name has to be exact
 - enzyme renders
   ![testLoad](assets/enzymeRenders.png)
+
+## .env file
+
+- use absolute imports
